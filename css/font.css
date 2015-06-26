@@ -23,6 +23,9 @@
 	/*-moz-osx-font-smoothing: grayscale;*/
 }
 
+.icon-copyright:before {
+	content: "\e600";
+}
 .icon-home:before {
 	content: "\e900";
 }
