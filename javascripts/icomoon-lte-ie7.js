@@ -3,21 +3,25 @@
 window.onload = function() {
   function addIcon(el, entity) {
     var html = el.innerHTML;
-    el.innerHTML = '<span style="font-family: \'icomoon-ultimate\'">' + entity + '</span>' + html;
+    el.innerHTML = '<span style="font-family: \'icomoon\'">' + entity + '</span>' + html;
   }
   var icons = {
-      'icon-info' : '&#xe000;',
-      'icon-info-2' : '&#xe001;',
-      'icon-quill' : '&#xe002;',
-      'icon-quill-2' : '&#xe003;',
-      'icon-pen' : '&#xe004;',
-      'icon-feed' : '&#xe005;',
-      'icon-feed-2' : '&#xe006;',
-      'icon-feed-3' : '&#xe007;',
-      'icon-twitter' : '&#xe008;',
-      'icon-github' : '&#xe009;',
-      'icon-cc' : '&#xe00a;',
-      'icon-search' : '&#xe00b;'
+      'icon-home' : '&#xe900;',
+      'icon-play' : '&#xe912;',
+      'icon-phone' : '&#xe942;',
+      'icon-mail' : '&#xe945;',
+      'icon-info' : '&#xea0c;',
+      'icon-facebook' : '&#xea8c;',
+      'icon-facebook2' : '&#xea8d;',
+      'icon-instagram' : '&#xea90;',
+      'icon-twitter' : '&#xea91;',
+      'icon-github3' : '&#xeab3;',
+      'icon-github4' : '&#xeab4;',
+      'icon-wordpress' : '&#xeab6;',
+      'icon-tumblr' : '&#xeabb;',
+      'icon-skype' : '&#xeac6;',
+      'icon-linkedin2' : '&#xeac9;'
+      'icon-pinterest' : '&#xead0;'
     },
     els = document.getElementsByTagName('*'),
     i, attr, html, c, el;

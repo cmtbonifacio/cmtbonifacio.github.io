@@ -6,9 +6,9 @@ Personal portal site using jekyll by sanketparmar. Please check out the original
 
 # License
 
-The **content** of the site (i.e., blog posts and page content) is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+The **content** of the site is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
 
-The **icons** are from the [IcoMoon icon set](http://icomoon.io/) and are licensed as described at [http://icomoon.io/#icons#license](http://icomoon.io/#icons#license).
+The **icons** are from [IcoMoon icon set](http://icomoon.io/) and are licensed under one of these two licenses: [CC4.0](http://creativecommons.org/licenses/by/4.0/) or [GPL](http://www.gnu.org/licenses/gpl.html), as described at [http://icomoon.io/#icons#license](http://icomoon.io/#icons#license).
 
 The **structure, design, and layout** of the site are licensed under the [MIT License](http://opensource.org/licenses/MIT).
 
