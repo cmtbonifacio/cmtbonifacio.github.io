@@ -1,6 +1,6 @@
-# About [sanketparmar.in](http://sanketparmar.in)
+# About [cmtbonifacio.me](http://cmtbonifacio.me)
 
-Personal blogging site using jekyll. You can check it [here](http://www.sanketparmar.in). 
+Personal portal site using jekyll by sanketparmar. Please check out the original source and repository [here](http://www.sanketparmar.in).
 
 [Source](https://github.com/jasonrudolph/jasonrudolph.com) of the **structure, design and layout**
 
