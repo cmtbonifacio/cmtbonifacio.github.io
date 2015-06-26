@@ -26,6 +26,15 @@
 .icon-quill:before {
   content: "\e004";
 }
+.icon-twitter:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea90";
+}
+.icon-pinterest:before{
+  content: "\ead0";
+}
 .icon-quill-2:before {
   content: "\e005";
 }
@@ -62,7 +71,6 @@
 .icon-skype:before {
   content: "\e605";
 }
-
 .icon-cc:before {
   content: "\e00c";
 }
