@@ -77,7 +77,7 @@ td, th {
 
 th {
 	font-weight: bold;
-	border-bottom: solid 2px #ccc;	
+	border-bottom: solid 2px #ccc;
 }
 
 a.core-nav {
@@ -184,13 +184,13 @@ a.core-nav:hover {
   margin: 0;
 }
 
-#contact-info {
+#copyright {
   padding: .2em;
   font-size: 80%;
 }
 
 #copyright a {
-  font-size: 200%;
+  font-size: 80%;
 }
 
 #homepage {
