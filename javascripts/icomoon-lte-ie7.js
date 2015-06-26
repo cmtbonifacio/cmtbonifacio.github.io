@@ -9,7 +9,7 @@ window.onload = function() {
       'icon-home' : '&#xe900;',
       'icon-play' : '&#xe912;',
       'icon-phone' : '&#xe942;',
-      'icon-mail' : '&#xe945;',
+      'icon-envelop' : '&#xe945;',
       'icon-info' : '&#xea0c;',
       'icon-facebook' : '&#xea8c;',
       'icon-facebook2' : '&#xea8d;',
